@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>M-Race</h1>
+      <h1>We Bawler</h1>
     </main>
   );
 }

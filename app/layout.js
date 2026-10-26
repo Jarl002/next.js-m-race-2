@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "M-Race",
+  title: "We Bawler",
   description: "M-Race bygget med Next.js",
 };
 
